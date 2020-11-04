@@ -14,16 +14,25 @@
   5. [Questions](#Questions)
 
   ## Installation
-  Open your terminal. Navigate to the appropriate directory. Run the npm install command. Run the node index.js command. Create your README file.
+  1. Open your terminal.  
+  2. Navigate to the appropriate directory.  
+  3. Run the "npm install" command.  
+  4. Run the "node index.js" command. 
+  5. Create your README file by completing filling in the information for each prompt.
 
   ## Usage
-  Use this application to quickly create professional README files for your projects.
+  Use this application to quickly create professional looking README files for your projects.
 
   ## License
   MIT  ![License badge](https://img.shields.io/badge/license-MIT-green)
 
   ## Contribution
-  Contributions to this project are welcomed! Please use the following guidelines if you wish to contribute: Fork the project. Create your feature branch. Commit your changes. Push to the branch. Open a pull request.
+  Contributions to this project are welcomed! Please use the following guidelines if you wish to contribute:  
+  1. Fork the project.  
+  2. Create your feature branch.  
+  3. Commit your changes.  
+  4. Push to the branch.  
+  5. Open a pull request.
 
   ## Tests
   Not Applicable
