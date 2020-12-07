@@ -1,4 +1,4 @@
-# Unit 09 Node.js and ES6+ Homework: Good README Generator
+# Good README Generator
 
 ## User Story
 AS A developer  
