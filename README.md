@@ -41,3 +41,6 @@ Example of a README.md generated using this application:
 * When presented with each prompt, enter in the appropriate information.
 * Once all information has been entered a README file will be created for you.
 
+## License
+![license](https://img.shields.io/badge/License-MIT-success)
+
