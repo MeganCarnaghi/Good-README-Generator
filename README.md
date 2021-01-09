@@ -1,5 +1,8 @@
 # Good README Generator
 
+## Description
+A CLI app that dynamically generates a README file based on a user's input, utilizing Node.js and the Inquirer package.
+
 ## User Story
 AS A developer  
 I WANT a README generator  
